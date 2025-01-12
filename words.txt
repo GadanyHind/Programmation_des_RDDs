@@ -1,0 +1,4 @@
+Spark (ou Apache Spark2) est un framework open source de calcul distribué.
+Il s'agit d'un ensemble d'outils et de composants logiciels structurés selon une architecture définie.
+Développé à l'université de Californie à Berkeley par AMPLab3, Spark est aujourd'hui un projet de la fondation Apache.
+Ce produit est un cadre applicatif de traitements des mégadonnées (big data) pour effectuer desanalyses complexes à grande échelle.
