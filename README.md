@@ -41,6 +41,7 @@ Cette application calcule le total des ventes pour chaque ville à partir du fic
 
 #### Exemple de sortie :
 <img width="481" alt="Screenshot 2025-01-12 at 17 05 02" src="https://github.com/user-attachments/assets/d8034ea6-cc21-4b14-825e-847e4b398a4d" />
+
 Voici le code correspondant :
 
 ```java
@@ -83,9 +84,13 @@ Cette application calcule le total des ventes des produits pour chaque ville, ma
 5. Afficher les résultats ou les sauvegarder dans un fichier de sortie.
 
 #### Exemple de sortie pour l'année `2022` :
+
 <img width="481" alt="Screenshot 2025-01-12 at 17 04 16" src="https://github.com/user-attachments/assets/c3152361-e396-4e38-87db-af0bd0ef123c" />
+
 #### Exemple de sortie pour l'année `2023` :
+
 <img width="481" alt="Screenshot 2025-01-12 at 17 04 49" src="https://github.com/user-attachments/assets/bcd3d2d7-04a9-42ad-9a0d-652eb952e620" />
+
 Voici le code correspondant :
 
 ```java
